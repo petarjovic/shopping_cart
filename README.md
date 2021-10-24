@@ -1,3 +1,5 @@
+Front-end by Petar Jovic; back-end by Philip Cai (https://github.com/Gadnalf)
+
 # Site Link and Details
 Frontend deployment at: https://assignment-1-57-shopping-cart.herokuapp.com/
 
